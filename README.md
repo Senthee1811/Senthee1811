@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on industrial life
 - 📫 How to reach me @sen_thee_007
-- 😄 Pronouns: his/him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: OverSpeaker 
 
 <!---
