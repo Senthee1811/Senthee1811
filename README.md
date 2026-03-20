@@ -1,6 +1,6 @@
 ## Who am I?
 
-Hi! I'm Sentheepan — a Software Engineering undergraduate passionate about building full-stack applications and intelligent web solutions.
+Hi! I'm Sentheepan — a Information Technology undergraduate passionate about building full-stack applications and intelligent web solutions.
 
 🔧 Specialized in MERN Stack, Next.js, and TypeScript
 
