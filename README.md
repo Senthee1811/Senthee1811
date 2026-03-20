@@ -1,6 +1,12 @@
-## 🙂About Me:
-Software Engineer | MERN & Next.js Developer
-I am a performance-driven developer with a specialization in the MERN stack, Next.js, and AI integration. During my tenure at Printcare PLC, I engineered high-availability RESTful APIs and architected real-time monitoring systems using Vue.js and TailwindCSS. I am passionate about bridging the gap between complex backend logic and intuitive, AI-powered user interfaces to deliver scalable, production-ready software solutions.
+## Who am I?
+
+Hi! I'm Sentheepan — a Software Engineering undergraduate passionate about building full-stack applications and intelligent web solutions.
+
+🔧 Specialized in MERN Stack, Next.js, and TypeScript
+
+⚡ Focused on building scalable APIs and high-performance web architectures
+
+💻 Exploring Generative AI integration and modern cloud deployment ---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sen_thee_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellankovan-sentheepan/) 
