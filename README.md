@@ -1,4 +1,5 @@
 About
+
 Software Engineer | MERN & Next.js Developer
 I am a performance-driven developer with a specialization in the MERN stack, Next.js, and AI integration. During my tenure at Printcare PLC, I engineered high-availability RESTful APIs and architected real-time monitoring systems using Vue.js and TailwindCSS. I am passionate about bridging the gap between complex backend logic and intuitive, AI-powered user interfaces to deliver scalable, production-ready software solutions.
 
