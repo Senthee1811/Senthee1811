@@ -32,11 +32,13 @@ Hi! I'm Sentheepan — a Information Technology undergraduate passionate about b
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
-# 📊 GitHub Stats:
-[![Senthee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senthee1811)](https://github.com/Senthee1811/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api?username=Senthee1811&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Senthee1811&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Senthee1811&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+![Senthee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senthee1811&show_icons=true&theme=dark&hide_border=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Senthee1811&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Senthee1811&theme=dark&hide_border=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Senthee1811&icon=0&color=0)](https://visitcount.itsvg.in)
